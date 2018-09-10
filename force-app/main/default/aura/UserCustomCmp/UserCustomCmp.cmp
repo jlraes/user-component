@@ -1,0 +1,4 @@
+<aura:component implements="flexipage:availableForRecordHome,force:hasRecordId" access="global" >
+    <lightning:button variant="brand" label="XXXX" onclick="{! c.alertTest }"/>
+    <lightning:button variant="brand" label="YYYY" onclick="{! c.confirmTest }"/>    
+</aura:component>

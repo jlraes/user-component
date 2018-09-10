@@ -1,0 +1,212 @@
+[
+    [
+        "C:\\DATA\\DEV\\SALESFORCE DEV\\PROJECTS\\user-component\\force-app",
+        {
+            "sourcePath": "C:\\DATA\\DEV\\SALESFORCE DEV\\PROJECTS\\user-component\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1536588737193,
+            "changeTime": 1536588737193,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\DATA\\DEV\\SALESFORCE DEV\\PROJECTS\\user-component\\force-app\\main",
+        {
+            "sourcePath": "C:\\DATA\\DEV\\SALESFORCE DEV\\PROJECTS\\user-component\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1536588737194,
+            "changeTime": 1536588737194,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\DATA\\DEV\\SALESFORCE DEV\\PROJECTS\\user-component\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\DATA\\DEV\\SALESFORCE DEV\\PROJECTS\\user-component\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1536589010082,
+            "changeTime": 1536589010082,
+            "contentHash": "a42b6a815af45973ee4b23554b78328e27298b9f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\DATA\\DEV\\SALESFORCE DEV\\PROJECTS\\user-component\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\DATA\\DEV\\SALESFORCE DEV\\PROJECTS\\user-component\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1536588847159,
+            "changeTime": 1536588847159,
+            "contentHash": "1a5c7bf04c0cd36d6e3486c25175ad2ad4b43cbe",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\DATA\\DEV\\SALESFORCE DEV\\PROJECTS\\user-component\\force-app\\main\\default\\aura\\UserCustomCmp",
+        {
+            "sourcePath": "C:\\DATA\\DEV\\SALESFORCE DEV\\PROJECTS\\user-component\\force-app\\main\\default\\aura\\UserCustomCmp",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1536588547912,
+            "changeTime": 1536588847160,
+            "contentHash": "b35007c1f91164f6a361280a1426f9808341ed9f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\DATA\\DEV\\SALESFORCE DEV\\PROJECTS\\user-component\\force-app\\main\\default\\aura\\UserCustomCmp\\UserCustomCmp.cmp",
+        {
+            "sourcePath": "C:\\DATA\\DEV\\SALESFORCE DEV\\PROJECTS\\user-component\\force-app\\main\\default\\aura\\UserCustomCmp\\UserCustomCmp.cmp",
+            "isDirectory": false,
+            "size": 281,
+            "modifiedTime": 1536588547912,
+            "changeTime": 1536588547912,
+            "contentHash": "8c6533227b83b8c71f579daa9f0a75993f362174",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\DATA\\DEV\\SALESFORCE DEV\\PROJECTS\\user-component\\force-app\\main\\default\\aura\\UserCustomCmp\\UserCustomCmp.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\DATA\\DEV\\SALESFORCE DEV\\PROJECTS\\user-component\\force-app\\main\\default\\aura\\UserCustomCmp\\UserCustomCmp.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1536588547909,
+            "changeTime": 1536588547909,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\DATA\\DEV\\SALESFORCE DEV\\PROJECTS\\user-component\\force-app\\main\\default\\aura\\UserCustomCmp\\UserCustomCmpController.js",
+        {
+            "sourcePath": "C:\\DATA\\DEV\\SALESFORCE DEV\\PROJECTS\\user-component\\force-app\\main\\default\\aura\\UserCustomCmp\\UserCustomCmpController.js",
+            "isDirectory": false,
+            "size": 227,
+            "modifiedTime": 1536588547911,
+            "changeTime": 1536588547911,
+            "contentHash": "fae9aba419b21fdba949fb6946ea39312aee6300",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\DATA\\DEV\\SALESFORCE DEV\\PROJECTS\\user-component\\force-app\\main\\default\\flexipages",
+        {
+            "sourcePath": "C:\\DATA\\DEV\\SALESFORCE DEV\\PROJECTS\\user-component\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1536589011501,
+            "changeTime": 1536589011501,
+            "contentHash": "664d7faf727e82f482b44b12c4dc0a7a6d706e85",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\DATA\\DEV\\SALESFORCE DEV\\PROJECTS\\user-component\\force-app\\main\\default\\flexipages\\User_Record_Page.flexipage-meta.xml",
+        {
+            "sourcePath": "C:\\DATA\\DEV\\SALESFORCE DEV\\PROJECTS\\user-component\\force-app\\main\\default\\flexipages\\User_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 1851,
+            "modifiedTime": 1536588547924,
+            "changeTime": 1536589011502,
+            "contentHash": "ada75fc2e8f52f01f3124131f761ad5037ac69ea",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\DATA\\DEV\\SALESFORCE DEV\\PROJECTS\\user-component\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "C:\\DATA\\DEV\\SALESFORCE DEV\\PROJECTS\\user-component\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1536588969878,
+            "changeTime": 1536588969878,
+            "contentHash": "9f8a2389a20ca0752aa9e95093515517e90e194c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\DATA\\DEV\\SALESFORCE DEV\\PROJECTS\\user-component\\force-app\\main\\default\\objects\\User",
+        {
+            "sourcePath": "C:\\DATA\\DEV\\SALESFORCE DEV\\PROJECTS\\user-component\\force-app\\main\\default\\objects\\User",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1536588547921,
+            "changeTime": 1536588969879,
+            "contentHash": "fc56f95131bf9044653cf09d11503f65b6e75dac",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\DATA\\DEV\\SALESFORCE DEV\\PROJECTS\\user-component\\force-app\\main\\default\\objects\\User\\User.object-meta.xml",
+        {
+            "sourcePath": "C:\\DATA\\DEV\\SALESFORCE DEV\\PROJECTS\\user-component\\force-app\\main\\default\\objects\\User\\User.object-meta.xml",
+            "isDirectory": false,
+            "size": 3478,
+            "modifiedTime": 1536588547921,
+            "changeTime": 1536588547921,
+            "contentHash": "73ae559a18b7dc74a5f49e3f6bb3062a8c3858d7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\DATA\\DEV\\SALESFORCE DEV\\PROJECTS\\user-component",
+        {
+            "sourcePath": "C:\\DATA\\DEV\\SALESFORCE DEV\\PROJECTS\\user-component",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1536589097825,
+            "changeTime": 1536589097825,
+            "contentHash": "fe5ee5b1d2f2b6eceb946c61b02217737659b9fc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
